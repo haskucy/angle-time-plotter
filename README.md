@@ -12,7 +12,6 @@ This program is designed to plot and find the exact time corresponding to a give
 - For convenient usage, it is recommended to utilize Google Colab, an online Jupyter notebook environment.
 
 ## To-Do List:
-1. **Organize Jupyter Notebook**: Improve the structure and organization of the existing Jupyter notebook code for better readability and maintainability.
-2. **Create a GUI**: Develop a graphical user interface (GUI) to enhance the user experience and provide a user-friendly way to interact with the program.
+1. **Create a GUI**: Develop a graphical user interface (GUI) to enhance the user experience and provide a user-friendly way to interact with the program.
 
 Please note that the project is actively being developed, and new updates will be added to improve the functionality and user interface. Contributions and feedback are welcome to make this program even more useful and accessible.
